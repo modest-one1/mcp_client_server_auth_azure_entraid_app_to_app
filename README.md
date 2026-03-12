@@ -96,6 +96,5 @@ Files of interest
 - mcp_client/mcp_client.py — Client token acquisition and calls
 
  
-  
- 
+![alt text](image.png)
 
